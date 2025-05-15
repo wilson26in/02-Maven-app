@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head><title>First JSP on Jenkins Pipeline!!!</title></head>
+<head><title>First JSP on Jenkins Pipeline</title></head>
 <body>
 <% double num = Math.random();  // [0.0, 1.0)
    if (num > 0.95) { %>
